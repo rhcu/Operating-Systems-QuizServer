@@ -1,0 +1,24 @@
+1 What is a system call?
+A. A call to the system
+B. A function call that invokes the operating system to take some action
+C. A call to the operating system
+
+B
+
+2 What year it is?
+A. 2k16
+B. 2k17
+C. 2k18
+D. 2k15
+E. 2k15
+
+C
+
+3. How many paws cat has?
+A. a
+B. 2
+C. 3
+D. 4
+
+D
+
